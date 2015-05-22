@@ -22,6 +22,7 @@ namespace dfsrgrgregrgreg
 			SetContentView (Resource.Layout.Main);
 			Console.WriteLine ("hello");
 			Console.WriteLine ("hello");
+			Console.WriteLine ("hello12344545");
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
